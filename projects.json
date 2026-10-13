@@ -1,0 +1,569 @@
+[
+  {
+    "id": "wef",
+    "slug": "wef",
+    "title": "Plateforme WEF",
+    "short_title": "WEF — Congrès scientifique",
+    "category": "ux",
+    "category_label": "UX/UI · Plateforme web",
+    "featured": true,
+    "surface": "#dfe9f0",
+    "image": "assets/previews/wef-interface.webp",
+    "alt": "Maquette de l’accueil WEF : congrès, recherche et accès aux services de la plateforme.",
+    "tags": [
+      "Recherche UX",
+      "Parcours",
+      "UI design"
+    ],
+    "scope": "Projet de fin d’études",
+    "contribution": "Conception UX/UI",
+    "format": "Plateforme web",
+    "summary": "Faciliter les échanges entre chercheurs et organisateurs, de la soumission d’un travail au programme du congrès.",
+    "context_title": "Rendre un congrès plus simple à organiser.",
+    "context": "WEF est un projet de plateforme pour le congrès scientifique Water Energy Food à Agadir. La proposition rassemble la soumission des travaux, leur gestion, les événements et les certificats dans une même expérience web.",
+    "challenge": "Les chercheurs, doctorants et organisateurs n’ont pas les mêmes tâches. Le défi consiste à rendre leurs parcours lisibles tout en organisant des informations scientifiques et des étapes administratives nombreuses.",
+    "process": "La démarche présentée dans le rapport passe par un questionnaire, un benchmark de plateformes de congrès, des personas et des user stories. Les parcours, l’architecture de l’information, les croquis et les maquettes structurent ensuite la proposition d’interface.",
+    "decisions": [
+      [
+        "Distinguer les espaces utilisateurs",
+        "Les accès chercheurs / doctorants et organisateurs rendent visibles les deux grands usages de la plateforme."
+      ],
+      [
+        "Guider la création d’un projet",
+        "Le parcours de soumission est organisé en étapes : informations, rédaction et lancement. L’avancement reste explicite."
+      ],
+      [
+        "Hiérarchiser les actions et les contenus",
+        "Les services, les projets et les événements sont présentés dans des blocs identifiables pour aider à trouver la prochaine action."
+      ]
+    ],
+    "deliverables": "Le rapport réunit recherche, personas, parcours, croquis et interfaces haute fidélité. Une proposition de plateforme qui rend les besoins des chercheurs et des organisateurs concrets et explorables.",
+    "pdf": "Nouveau dossier/presentation du soutenance.pdf",
+    "gallery": [
+      [
+        "assets/previews/wef-submission.webp",
+        "Parcours de création et de gestion des projets, extrait de la présentation."
+      ],
+      [
+        "assets/previews/wef-personas.webp",
+        "Personas et besoins utilisateurs, extrait du rapport de projet."
+      ]
+    ],
+    "pdf_size_mb": 57
+  },
+  {
+    "id": "lingua",
+    "slug": "linguaconnect",
+    "title": "LinguaConnect",
+    "short_title": "LinguaConnect",
+    "category": "ux",
+    "category_label": "UX/UI · Application mobile",
+    "featured": true,
+    "surface": "#f3ded1",
+    "image": "assets/previews/linguaconnect-cover.webp",
+    "alt": "Présentation LinguaConnect avec une maquette mobile de l’application d’apprentissage des langues.",
+    "tags": [
+      "Recherche UX",
+      "Mobile",
+      "Prototypage"
+    ],
+    "scope": "Projet de conception en duo",
+    "contribution": "UX/UI avec Khadija Abrighach",
+    "format": "Application mobile",
+    "summary": "Une expérience d’apprentissage des langues pensée pour la pratique quotidienne, la motivation et les progrès.",
+    "context_title": "Apprendre une langue, un peu chaque jour.",
+    "context": "LinguaConnect est un concept d’application pour des adultes de 18 à 40 ans, de niveau débutant à intermédiaire. Le projet associe exercices quotidiens, pratique de la conversation, vocabulaire et suivi des progrès.",
+    "challenge": "Comment adapter l’apprentissage à des objectifs différents — études, travail ou voyage — tout en aidant les apprenants à rester réguliers et motivés ?",
+    "process": "L’étude documente la segmentation des utilisateurs, le benchmark, les questions How Might We, les personas et les parcours. L’idéation se poursuit avec l’architecture de l’information, des croquis, des wireframes et des interfaces haute fidélité.",
+    "decisions": [
+      [
+        "Partir de l’objectif de l’apprenant",
+        "L’accueil et le parcours initial prennent en compte les motivations et le rythme de pratique de l’utilisateur."
+      ],
+      [
+        "Rendre les progrès visibles",
+        "Objectifs quotidiens, exercices et éléments de progression donnent une structure à la pratique."
+      ],
+      [
+        "Relier apprentissage et échange",
+        "Les espaces de conversation et la communauté complètent les cours pour mettre les connaissances en pratique."
+      ]
+    ],
+    "deliverables": "Une étude de cas réalisée avec Khadija Abrighach, des croquis, des wireframes et une série d’écrans mobiles. La présentation montre le cheminement de conception du problème aux interfaces.",
+    "pdf": "Nouveau dossier/BEHANCE PRESENTATION.pdf",
+    "gallery": [
+      [
+        "assets/previews/linguaconnect-sketches.webp",
+        "Premiers croquis des interfaces, issus de l’étude de cas."
+      ],
+      [
+        "assets/previews/linguaconnect-screens.webp",
+        "Extrait des écrans haute fidélité du parcours mobile."
+      ]
+    ],
+    "pdf_size_mb": 15
+  },
+  {
+    "id": "naf-site",
+    "slug": "naf-website",
+    "title": "North African Fitness",
+    "short_title": "NAF — Site web",
+    "category": "ux",
+    "category_label": "UX/UI · Site web",
+    "featured": true,
+    "surface": "#dfe7d7",
+    "image": "assets/previews/naf-cover.webp",
+    "alt": "Interface du concept NAF avec une collection sportswear et un univers visuel vert et ivoire.",
+    "tags": [
+      "E-commerce",
+      "Architecture",
+      "UI design"
+    ],
+    "scope": "Concept de site web",
+    "contribution": "Structure et design d’interface",
+    "format": "Site web de marque",
+    "summary": "Faire cohabiter une collection sportswear, une identité culturelle et les activités d’une communauté.",
+    "context_title": "Une marque, une collection, un mouvement.",
+    "context": "Le projet web North African Fitness articule trois espaces : l’accueil, les produits et les activités. Le concept fait le lien entre sportswear, mouvement et identité nord-africaine.",
+    "challenge": "L’enjeu est de présenter une marque et sa collection sans effacer la dimension communautaire. La navigation doit aider à distinguer l’achat d’un produit et la découverte d’une activité.",
+    "process": "Le document commence par la structure des pages, puis des wireframes. Les maquettes détaillées déclinent ensuite cette organisation en accueil de marque, catalogue et page d’activités.",
+    "decisions": [
+      [
+        "Trois entrées faciles à comprendre",
+        "Accueil, produits et activités structurent les intentions de visite dès la navigation principale."
+      ],
+      [
+        "Donner de la place à l’image",
+        "Photographies, mises en avant de collection et contrastes typographiques construisent un univers cohérent."
+      ],
+      [
+        "Organiser le catalogue",
+        "Le concept de page produits présente recherche, catégories, tailles, couleurs et tri pour rendre l’exploration plus précise."
+      ]
+    ],
+    "deliverables": "Une architecture de site, des wireframes et trois maquettes détaillées : accueil, catalogue et activités. Le concept relie l’identité de marque aux principaux parcours de visite.",
+    "pdf": "Nouveau dossier/site web de naf.pdf",
+    "gallery": [
+      [
+        "assets/previews/naf-home.webp",
+        "Maquette complète de la page d’accueil : collection, produits et communauté."
+      ],
+      [
+        "assets/previews/naf-products.webp",
+        "Page catalogue : catégories, filtres et présentation des produits."
+      ]
+    ],
+    "pdf_size_mb": 13
+  },
+  {
+    "id": "loop",
+    "slug": "loop",
+    "title": "Loop",
+    "short_title": "Loop",
+    "category": "ux",
+    "category_label": "UX/UI · Produit multi-écrans",
+    "featured": true,
+    "surface": "#dce2f3",
+    "image": "assets/previews/loop-cover.webp",
+    "alt": "Présentation Loop, concept de jeu social accessible sur plusieurs appareils.",
+    "tags": [
+      "Expérience multi-écrans",
+      "Jeu social",
+      "UI design"
+    ],
+    "scope": "Concept de produit collectif",
+    "contribution": "Conception UX/UI en équipe",
+    "format": "Mobile, desktop et autres écrans",
+    "summary": "Créer une expérience de quiz et de jeu social qui relie les joueurs, quel que soit leur écran.",
+    "context_title": "Des écrans différents. Une même partie.",
+    "context": "Loop est un concept de plateforme de jeux collaboratifs et compétitifs : quiz, devinettes et dessin. La présentation explore l’expérience sur téléphone, tablette, ordinateur, télévision et montre connectée.",
+    "challenge": "Chaque appareil possède ses contraintes de lecture et d’interaction. Le projet cherche à conserver une logique de jeu cohérente tout en adaptant les parcours et les interfaces aux différents supports.",
+    "process": "Le travail d’équipe documente le contexte, les publics et les scénarios de jeu. Des parcours par appareil, des croquis et des wireframes préparent les interfaces de jeu et leurs états.",
+    "decisions": [
+      [
+        "Adapter le parcours à l’appareil",
+        "Les parcours prennent en compte le support utilisé pour lancer une session, rejoindre les autres joueurs et participer."
+      ],
+      [
+        "Garder le jeu lisible",
+        "Question, choix et progression sont organisés pour soutenir la compréhension pendant une partie."
+      ],
+      [
+        "Soigner les états de fin de partie",
+        "Résultats et actions pour rejouer donnent une suite claire à l’expérience."
+      ]
+    ],
+    "deliverables": "Une présentation de conception multi-écrans, des parcours, des croquis, des wireframes et des maquettes de jeu. Le dossier met en évidence les adaptations de l’expérience selon les supports.",
+    "pdf": "Nouveau dossier/Frame 1984077684.pdf",
+    "gallery": [
+      [
+        "assets/previews/loop-sketches.webp",
+        "Croquis préparatoires, extraits de la présentation Loop."
+      ],
+      [
+        "assets/previews/loop-desktop.webp",
+        "Extrait de la conception de l’interface de jeu sur ordinateur."
+      ]
+    ],
+    "pdf_size_mb": 62
+  },
+  {
+    "id": "audit",
+    "slug": "audit-guichet",
+    "title": "Audit UX de Guichet",
+    "short_title": "Guichet — Audit UX",
+    "category": "ux",
+    "category_label": "UX/UI · Audit heuristique",
+    "featured": false,
+    "surface": "#dfe8ed",
+    "image": "assets/covers/audit-guichet.jpg",
+    "alt": "Couverture de l’audit UX de Guichet fondé sur les dix heuristiques de Jakob Nielsen.",
+    "tags": [
+      "Audit UX",
+      "Heuristiques",
+      "Analyse d’interface"
+    ],
+    "scope": "Étude collective",
+    "contribution": "Analyse UX en équipe",
+    "format": "Audit d’un site de billetterie",
+    "summary": "Examiner le parcours de billetterie à travers les dix heuristiques de Jakob Nielsen.",
+    "context_title": "Observer les frictions avant de concevoir.",
+    "context": "Cet audit collectif analyse le site Guichet, avec une attention particulière portée à la sélection d’un événement et à l’achat d’un billet. Les dix heuristiques de Jakob Nielsen servent de cadre de lecture.",
+    "challenge": "Il s’agit de distinguer les éléments qui aident l’utilisateur des points de friction, et d’expliquer pourquoi un choix d’interface facilite ou complique le parcours.",
+    "process": "L’équipe parcourt les interfaces de billetterie et les examine selon chaque heuristique. Les captures annotées rendent les observations concrètes ; les commentaires proposent des pistes d’amélioration.",
+    "decisions": [
+      [
+        "Observer le retour du système",
+        "États des événements, prix et réponses aux actions sont examinés pour vérifier la visibilité de l’information."
+      ],
+      [
+        "Examiner le contrôle utilisateur",
+        "Retour, fermeture et réinitialisation des filtres sont étudiés dans les parcours de navigation."
+      ],
+      [
+        "Identifier les risques d’erreur",
+        "Champs obligatoires, validation et messages d’erreur sont analysés dans le parcours de commande."
+      ]
+    ],
+    "deliverables": "Un rapport de 31 pages avec captures annotées, observations et recommandations pour rendre les points de friction visibles et orienter les améliorations.",
+    "pdf": "Nouveau dossier/Audit_guichet.pdf",
+    "gallery": [
+      [
+        "assets/previews/audit-analysis.webp",
+        "Exemple d’analyse annotée de la visibilité du statut du système."
+      ]
+    ],
+    "pdf_size_mb": 16
+  },
+  {
+    "id": "travel",
+    "slug": "travelease",
+    "title": "TravelEase",
+    "short_title": "TravelEase",
+    "category": "ux",
+    "category_label": "UX/UI · Recherche & optimisation",
+    "featured": false,
+    "surface": "#e1e8ee",
+    "image": "assets/covers/travelease.jpg",
+    "alt": "Couverture de l’étude d’optimisation UX de TravelEase.",
+    "tags": [
+      "Benchmark",
+      "Personas",
+      "Parcours"
+    ],
+    "scope": "Projet UX collectif",
+    "contribution": "Recherche et conception en équipe",
+    "format": "Plateforme de voyage",
+    "summary": "Explorer les besoins de voyageurs différents pour mieux structurer une expérience de réservation.",
+    "context_title": "Partir des motivations du voyageur.",
+    "context": "TravelEase est une étude d’optimisation UX d’une plateforme de voyage, réalisée en équipe. Elle croise l’analyse de la concurrence avec les profils et les parcours des utilisateurs.",
+    "challenge": "Les besoins d’un voyage professionnel et ceux d’un séjour en famille ne sont pas identiques. Le projet cherche à comprendre ces différences pour orienter la réservation et la présentation des offres.",
+    "process": "L’étude présente concurrents directs et indirects, comparaison des fonctionnalités et recommandations. Personas, user stories et journey maps permettent ensuite de relier les observations aux parcours et aux propositions de conception.",
+    "decisions": [
+      [
+        "Comparer les expériences existantes",
+        "Le benchmark sert à identifier des pratiques et des fonctionnalités pertinentes pour la plateforme."
+      ],
+      [
+        "Distinguer les segments de voyageurs",
+        "Les personas explicitent objectifs, attentes et frustrations pour éviter une réponse uniforme."
+      ],
+      [
+        "Relier besoins et parcours",
+        "Les user stories et journey maps organisent les étapes qui précèdent les wireframes et prototypes."
+      ]
+    ],
+    "deliverables": "Une étude de conception comprenant benchmark, profils utilisateurs et réflexion sur les parcours. La présentation originale permet d’explorer le détail du travail collectif.",
+    "pdf": "Nouveau dossier/GR4 TravelEase.pdf",
+    "gallery": [],
+    "pdf_size_mb": 41
+  },
+  {
+    "id": "skills",
+    "slug": "skill-to-skill",
+    "title": "Skill To Skill",
+    "short_title": "Skill To Skill",
+    "category": "ux",
+    "category_label": "UX/UI · Plateforme web",
+    "featured": false,
+    "surface": "#e4eddf",
+    "image": "assets/covers/echange-competences.jpg",
+    "alt": "Concept de page d’accueil Skill To Skill pour l’échange de compétences.",
+    "tags": [
+      "Plateforme web",
+      "User flows",
+      "UI design"
+    ],
+    "scope": "Projet collectif · une semaine",
+    "contribution": "UX/UI Design en équipe",
+    "format": "Plateforme d’échange de compétences",
+    "summary": "Permettre à chacun de partager un savoir-faire et de trouver une compétence à apprendre.",
+    "context_title": "Partager un savoir. En découvrir un autre.",
+    "context": "Skill To Skill est un concept de plateforme d’échange de compétences. Un utilisateur propose ce qu’il maîtrise et recherche ce qu’il souhaite apprendre auprès d’un autre membre.",
+    "challenge": "La proposition doit rendre le fonctionnement de l’échange compréhensible et aider à trouver les compétences pertinentes, sans multiplier les étapes d’entrée.",
+    "process": "Réalisé en équipe sur une semaine, le projet documente personas, user stories, user flow et croquis avant la présentation de l’interface web.",
+    "decisions": [
+      [
+        "Clarifier l’échange dès l’accueil",
+        "Le concept distingue la compétence à partager et celle à apprendre."
+      ],
+      [
+        "Rendre la recherche ciblée",
+        "Catégories et recherche par compétence structurent l’exploration du catalogue."
+      ],
+      [
+        "Expliquer les premières étapes",
+        "Inscription, recherche et connexion avec d’autres membres rendent le service plus concret."
+      ]
+    ],
+    "deliverables": "Une étude de cas UX/UI avec définition du concept, éléments de recherche, parcours et interface web. Le projet concrétise l’échange de compétences dans une proposition de service.",
+    "pdf": "Nouveau dossier/Échange de Compétences.pdf",
+    "gallery": [],
+    "pdf_size_mb": 25
+  },
+  {
+    "id": "city",
+    "slug": "city-game-agadir",
+    "title": "City Game Agadir",
+    "short_title": "City Game Agadir",
+    "category": "ux",
+    "category_label": "UX/UI · Recherche & expérience urbaine",
+    "featured": false,
+    "surface": "#f3ddc3",
+    "image": "assets/covers/city-game-agadir.jpg",
+    "alt": "Présentation du concept City Game Agadir, une découverte ludique de la ville.",
+    "tags": [
+      "Recherche UX",
+      "Personas",
+      "User stories"
+    ],
+    "scope": "Cadrage d’une expérience culturelle",
+    "contribution": "Recherche et définition UX",
+    "format": "Concept web & parcours PDF",
+    "summary": "Transformer la découverte d’Agadir en un parcours culturel ludique, adapté à différents publics.",
+    "context_title": "Découvrir la ville en jouant.",
+    "context": "City Game Agadir explore une expérience de jeu de piste culturel. Le concept associe une version web et un parcours PDF téléchargeable pour découvrir le patrimoine de la ville.",
+    "challenge": "L’expérience doit convenir à des touristes, à des familles et à des groupes d’entreprise, dont les motivations et les contraintes sont différentes.",
+    "process": "La présentation définit la problématique, les objectifs, les publics et le fonctionnement. Elle documente la démarche de recherche, l’analyse concurrentielle, trois personas et leurs user stories.",
+    "decisions": [
+      [
+        "Prendre en compte plusieurs publics",
+        "Les personas distinguent tourisme, sortie familiale et activité de groupe."
+      ],
+      [
+        "Prévoir une expérience hors ligne",
+        "Le concept PDF répond à l’usage d’un parcours consultable sans connexion permanente."
+      ],
+      [
+        "Exprimer les besoins en scénarios",
+        "Les user stories traduisent les attentes en intentions de conception, dont l’accès bilingue et l’adaptation aux groupes."
+      ]
+    ],
+    "deliverables": "Un dossier de cadrage et de recherche UX de 33 pages. Les aperçus se concentrent sur les livrables présents : concept, benchmark, personas et user stories.",
+    "pdf": "Nouveau dossier/Finessing UI_UX Design Presentation Template 2.0.pdf",
+    "gallery": [
+      [
+        "assets/previews/city-persona.webp",
+        "Extrait du persona touristique et de ses besoins."
+      ]
+    ],
+    "pdf_size_mb": 13
+  },
+  {
+    "id": "naf-brand",
+    "slug": "north-african-fitness",
+    "title": "North African Fitness",
+    "short_title": "NAF — Univers de marque",
+    "category": "branding",
+    "category_label": "Branding · Présentation de marque",
+    "featured": false,
+    "surface": "#e8ded4",
+    "image": "assets/covers/north-african-fitness.jpg",
+    "alt": "Présentation North African Fitness sur un fond brun chaleureux.",
+    "tags": [
+      "Branding",
+      "Univers fitness",
+      "Présentation"
+    ],
+    "scope": "Présentation de marque",
+    "contribution": "Communication visuelle",
+    "format": "Dossier de présentation",
+    "summary": "Mettre en forme l’univers et la présentation d’une marque autour du fitness.",
+    "context_title": "Donner une présence à l’univers de marque.",
+    "context": "Ce support de présentation explore l’univers de North African Fitness. Une palette chaude et des compositions affirmées organisent le récit visuel de la marque.",
+    "challenge": "L’enjeu graphique est de donner une cohérence au document et de hiérarchiser les informations pour une lecture fluide.",
+    "process": "La présentation associe titres, mises en page et contenus visuels dans un univers commun. Les choix de couleurs et de composition soutiennent le positionnement graphique du support.",
+    "decisions": [
+      [
+        "Construire une palette cohérente",
+        "Les teintes chaudes donnent une continuité entre les pages."
+      ],
+      [
+        "Hiérarchiser l’information",
+        "Des titres affirmés et des blocs de contenu structurent la lecture."
+      ],
+      [
+        "Maintenir un univers visuel",
+        "La composition conserve une identité reconnaissable à travers le document."
+      ]
+    ],
+    "deliverables": "Un dossier de présentation de 23 pages consacré à l’univers de marque. Le PDF donne accès à l’ensemble des mises en page.",
+    "pdf": "Nouveau dossier/Présentation d'entreprise professionnelle moderne jaune et noir fond photo.pdf",
+    "gallery": [],
+    "pdf_size_mb": 13
+  },
+  {
+    "id": "rahety",
+    "slug": "rahety",
+    "title": "Rahety",
+    "short_title": "Rahety",
+    "category": "branding",
+    "category_label": "Branding · Identité visuelle",
+    "featured": false,
+    "surface": "#e2e1ee",
+    "image": "assets/covers/rahety.jpg",
+    "alt": "Couverture Rahety, projet de création de marque pour une entreprise de literie.",
+    "tags": [
+      "Identité visuelle",
+      "Logo",
+      "Direction artistique"
+    ],
+    "scope": "Projet de marque en duo",
+    "contribution": "Création avec Mohamed Bouzit",
+    "format": "Identité & concept web",
+    "summary": "Créer une identité visuelle autour d’une promesse de confort pour une marque de literie.",
+    "context_title": "Faire du confort une identité.",
+    "context": "Rahety est un projet de création de marque pour une entreprise de vente de matelas et de lits. Le nom s’appuie sur l’idée de « mon confort » en darija.",
+    "challenge": "Le projet cherche à traduire une idée de confort en éléments visuels cohérents : nom, logo, couleurs, typographie et présence web.",
+    "process": "Réalisée avec Mohamed Bouzit, la présentation passe par la stratégie de marque, un moodboard, la construction du logo, la palette et la typographie, puis un concept de site web.",
+    "decisions": [
+      [
+        "Relier le nom au positionnement",
+        "Le nom Rahety exprime le confort recherché dans l’univers de la literie."
+      ],
+      [
+        "Construire un système visuel",
+        "Logo, couleurs et typographie sont présentés comme les éléments d’une même identité."
+      ],
+      [
+        "Décliner l’identité sur le web",
+        "La proposition de site montre comment la marque peut prendre forme dans une interface."
+      ]
+    ],
+    "deliverables": "Un dossier d’identité de 11 pages avec stratégie, moodboard, logo, palette, typographie et concept web.",
+    "pdf": "Nouveau dossier/Untitled.pdf",
+    "gallery": [
+      [
+        "assets/previews/rahety-palette.webp",
+        "Palette chromatique et intentions de marque, extrait de la présentation."
+      ]
+    ],
+    "pdf_size_mb": 4
+  },
+  {
+    "id": "tima",
+    "slug": "timaevent",
+    "title": "TimaEvent",
+    "short_title": "TimaEvent — Moments de fête",
+    "category": "graphic",
+    "category_label": "Design graphique · Réseaux sociaux",
+    "featured": false,
+    "surface": "#ece1d4",
+    "image": "assets/covers/timaevent-social.jpg",
+    "alt": "Composition TimaEvent pour les réseaux sociaux avec une photographie de mariage traditionnel.",
+    "tags": [
+      "Social media",
+      "Composition",
+      "Événementiel"
+    ],
+    "scope": "Communication événementielle",
+    "contribution": "Création graphique",
+    "format": "Carrousel social",
+    "summary": "Une composition éditoriale en darija pour raconter les moments de célébration.",
+    "context_title": "Mettre les moments de fête en image.",
+    "context": "Ce carrousel social TimaEvent s’appuie sur l’univers des célébrations. Photographie, texte en darija et composition éditoriale se combinent dans un format pour les réseaux sociaux.",
+    "challenge": "La composition doit donner une place à la photographie tout en gardant le message lisible dans une consultation rapide sur mobile.",
+    "process": "Le travail organise le message, la hiérarchie typographique et le rapport entre texte et photographie sur les différentes pages du carrousel.",
+    "decisions": [
+      [
+        "Mettre la photographie au premier plan",
+        "L’image ancre le message dans un contexte de célébration immédiatement reconnaissable."
+      ],
+      [
+        "Soigner le contraste du texte",
+        "La couleur et le placement des titres soutiennent leur lecture sur la photographie."
+      ],
+      [
+        "Penser le format mobile",
+        "Les compositions tiennent compte d’une lecture dans le flux des réseaux sociaux."
+      ]
+    ],
+    "deliverables": "Un carrousel de six pages présenté dans le document original, avec les variations de composition et de message.",
+    "pdf": "Nouveau dossier/Self Love Carousel Instagram Post in Cream Minimal Style.pdf",
+    "gallery": [],
+    "pdf_size_mb": 13
+  },
+  {
+    "id": "fitness",
+    "slug": "nutrition-fitness",
+    "title": "Nutrition & entraînement",
+    "short_title": "Nutrition & entraînement",
+    "category": "graphic",
+    "category_label": "Design graphique · Contenu fitness",
+    "featured": false,
+    "surface": "#dee4d7",
+    "image": "assets/covers/fitness-carousel.jpg",
+    "alt": "Publication fitness avec une photographie, une illustration moléculaire et un message sur les protéines.",
+    "tags": [
+      "Contenu social",
+      "Fitness",
+      "Direction artistique"
+    ],
+    "scope": "Communication pédagogique",
+    "contribution": "Composition graphique",
+    "format": "Carrousel Instagram",
+    "summary": "Mettre en scène un message pédagogique dans un univers graphique fitness.",
+    "context_title": "Faire ressortir un message dans le flux.",
+    "context": "Ce projet de contenu social aborde l’univers du fitness et de la nutrition. Le premier visuel associe photographie, éléments illustrés et titre autour du rôle des protéines.",
+    "challenge": "La composition cherche à retenir l’attention et à hiérarchiser un message pédagogique dans un format social.",
+    "process": "Photographies, éléments graphiques, couleurs et typographie sont assemblés pour créer des compositions reconnaissables, adaptées à la consultation sur mobile.",
+    "decisions": [
+      [
+        "Utiliser une hiérarchie affirmée",
+        "Le titre met en avant le message principal de chaque composition."
+      ],
+      [
+        "Associer image et éléments illustrés",
+        "Les éléments visuels relient le thème pédagogique à l’univers du fitness."
+      ],
+      [
+        "Créer un contraste lisible",
+        "Les couleurs et le fond donnent une place distincte au texte."
+      ]
+    ],
+    "deliverables": "Un ensemble de compositions sociales autour du fitness et de la nutrition. Le dossier réunit les mises en page et leurs variations graphiques.",
+    "pdf": "Nouveau dossier/Carrousel Instagram conseils Voyage minimaliste et moderne photo blanc et noir.pdf",
+    "gallery": [],
+    "pdf_size_mb": 51
+  }
+]
